@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-ev%82!&r2p!4$-2#ck#oj2!*_!jh*6!iz3apc09t1p282o@ypc
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','127.0.0.1', '.pythonywhere.com']
+ALLOWED_HOSTS = ['localhost','127.0.0.1', '.pythonywhere.com','.deploy.tz']
 # ALLOWED_HOSTS = [os.getenv('PROJECT_DOMAIN') + ".glitch.me"]
 
 
